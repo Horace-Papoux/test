@@ -3,7 +3,7 @@ alert(1);
 const cat = document.getElementById("cat");
 
 function myFunction() {
-  alert(1);
+  fetch;
 }
 
 cat.addEventListener("click", myFunction);
